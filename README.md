@@ -1,6 +1,6 @@
 # LTD
 
-This is our Pytorch implementation for the paper: Learning to Distill Graph Neural Networks
+This is our Pytorch implementation for the paper: Adaptive Distillation of Graph Neural Networks
 
 ## Requirements:
 
