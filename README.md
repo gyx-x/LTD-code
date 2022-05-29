@@ -17,6 +17,11 @@ This is our Pytorch implementation for the paper: Adaptive Distillation of Graph
 - torch==1.8.1
 - torchvision==0.9.1
 
+## Data：
+Because the A-Computers dataset is too large, we did not put it in the project file. The dataset can be downloaded from the following link and placed in the directory data/npz:
+
+https://www.dropbox.com/s/26zd460xn4u6gmn/amazon_electronics_computers.npz?dl=0
+
 ## Training:
 
 Run student model:
