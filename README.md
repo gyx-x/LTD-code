@@ -1,6 +1,6 @@
 # LTD
 
-This is our Pytorch implementation for the paper: Adaptive Distillation of Graph Neural Networks
+This is source code for vldb 2022 submission: Adaptive Distillation of Graph Neural Networks
 
 ## Requirements:
 
