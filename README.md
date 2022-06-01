@@ -2,6 +2,10 @@
 
 This is source code for vldb 2022 submission: Adaptive Distillation of Graph Neural Networks
 
+# Appendix
+
+We listed the detailed hyper-parameters for reproducibility in Appendix.pdf
+
 ## Requirements:
 
 - dgl==0.6.0
